@@ -3,3 +3,5 @@
 
 
 ![]https://github.com/suneelmeesalameher/GAN_SHIRT/blob/main/gan_generated_images.gif
+
+<img src='https://github.com/suneelmeesalameher/GAN_SHIRT/blob/main/gan_generated_images.gif'>
