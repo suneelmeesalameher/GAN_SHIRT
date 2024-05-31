@@ -1,7 +1,9 @@
+ <img src='https://github.com/suneelmeesalameher/GAN_SHIRT/blob/main/gan_generated_images.gif'>
+
 # GAN-based Image Generation from Fashion MNIST
 
 
- <img src='https://github.com/suneelmeesalameher/GAN_SHIRT/blob/main/gan_generated_images.gif'>
+
 
 
 This repository contains code to implement a Generative Adversarial Network (GAN) for generating images from the Fashion MNIST dataset. The GAN consists of a generator that creates new images from random noise and a discriminator that distinguishes between real and fake images. The generator and discriminator are trained simultaneously in a zero-sum game until the generator produces realistic images.
