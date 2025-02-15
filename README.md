@@ -4,20 +4,7 @@
 
 This repository contains code to implement a Generative Adversarial Network (GAN) for generating images of shirts from the Fashion MNIST dataset. The GAN consists of a generator that creates new images from random noise and a discriminator that distinguishes between real and fake images. The generator and discriminator are trained simultaneously in a zero-sum game until the generator produces realistic images.
 
-## Table of Contents
 
-- [Introduction](#introduction)
-- [Requirements](#requirements)
-- [Dataset](#dataset)
-- [Preprocessing](#preprocessing)
-- [GAN Architecture](#gan-architecture)
-  - [Generator](#generator)
-  - [Discriminator](#discriminator)
-- [Training](#training)
-- [Generating Images](#generating-images)
-- [Creating GIF](#creating-gif)
-- [Usage](#usage)
-- [Conclusion](#conclusion)
 
 ## Introduction
 
@@ -36,9 +23,4 @@ To run the code, you'll need the following libraries:
 - tensorflow
 - keras
 - imageio
-
-You can install the required libraries using the following command:
-
-```bash
-pip install numpy pandas matplotlib seaborn tensorflow keras imageio
 
