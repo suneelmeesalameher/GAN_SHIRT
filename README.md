@@ -24,3 +24,19 @@ To run the code, you'll need the following libraries:
 - keras
 - imageio
 
+## 🧠 Learnings & Highlights
+
+- Gained hands-on experience with adversarial training dynamics  
+- Explored convergence techniques for image quality improvements  
+- Understood trade-offs in generator/discriminator architecture tuning  
+- Implemented visualization tools to monitor model performance over time  
+
+## 🪄 Future Work
+
+- Explore Conditional GANs (cGAN) to generate all 10 Fashion MNIST classes  
+- Improve image resolution with DCGAN or StyleGAN extensions  
+- Add evaluation metrics like FID (Fréchet Inception Distance) 
+
+## 🤝 Contributing
+
+Feel free to fork and improve! Open to suggestions and contributions.
